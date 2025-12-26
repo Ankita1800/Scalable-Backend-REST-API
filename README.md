@@ -97,11 +97,11 @@ APIs tested using Swagger UI and Postman
 Screenshots of API responses are stored in the screenshots directory
 
 ### Future Improvements
-JWT-protected routes
-Update and delete task APIs
-Pagination and filtering
+JWT-protected routes,
+Update and delete task APIs,
+Pagination and filtering,
 Cloud deployment
 
 ### Author
-### Ankita Sahoo
+**Ankita Sahoo**
 GitHub: https://github.com/Ankita1800
